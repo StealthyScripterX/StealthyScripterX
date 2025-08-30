@@ -28,11 +28,7 @@ I'm a student with a growing passion for **cybersecurity** and **ethical hacking
 ---
 
 ## 📉 Contributions
-Currently, I don’t have many contributions yet. As a student, I'm still learning and not super active on GitHub. But as I gain more knowledge and start creating projects, I'll definitely start contributing more! 🚀
-
----
-
-> “The journey of a thousand miles begins with a single step.” — Lao Tzu
+Currently, I don’t have many contributions yet. As a student, I'm still learning and not super active on GitHub. But as I gain more knowledge and start creating projects, I'll definitely start contributing more! 
 
 ---
 
