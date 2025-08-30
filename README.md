@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👨‍💻 Hello, I'm Archit! Welcome to my GitHub profile!
 
-<!--
-**StealthyScripterX/StealthyScripterX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student with a growing passion for **cybersecurity** and **ethical hacking**. Currently, I'm on a journey to bridge the gap between theoretical knowledge and hands-on hacking skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What am I learning?
+- **Python** (for automating tasks and building tools)
+- **Hacking tools** (Metasploit, Burp Suite, Nmap, etc.)
+- **Cybersecurity** (basics of penetration testing and ethical hacking)
+
+---
+
+## 🎯 Current Focus
+- Gaining a solid foundation in **network security** and **penetration testing**
+- Understanding the theory behind the hacking tools I use
+
+---
+
+## 🛠️ Tools I Use
+- Python 🐍
+- OSINT Framework
+- Kali Linux 🐧
+- Wireshark (Network Protocol Analyzer)
+- Metasploit (Penetration Testing Framework)
+- Nmap (Network Scanner)
+
+---
+
+## 📉 Contributions
+Currently, I don’t have many contributions yet. As a student, I'm still learning and not super active on GitHub. But as I gain more knowledge and start creating projects, I'll definitely start contributing more! 🚀
+
+---
+
+> “The journey of a thousand miles begins with a single step.” — Lao Tzu
+
+---
+
+**Let's connect and learn together!**
